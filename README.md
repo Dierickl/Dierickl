@@ -1,4 +1,6 @@
-### Hi there 👋
+- Hi 👋 I'm a student in Computer Science
+- 🌱 I’m currently doing a Masters in Data Science
+- 💕 I love working on all kinds of projects
 
 <!--
 **Dierickl/Dierickl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
