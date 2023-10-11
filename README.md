@@ -1,4 +1,4 @@
-- Hi 👋 I'm a student in Computer Science
+- Hi 👋 I'm a Computer Science student
 - 🌱 I’m currently doing a Masters in Data Science
 - 💕 I love working on all kinds of projects
 
